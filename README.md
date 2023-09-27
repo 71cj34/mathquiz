@@ -1,2 +1,6 @@
 # mathquiz
-asd
+
+math quiz app
+
+# How use?
+just do it!!
